@@ -1,0 +1,1 @@
+{"name":"Local: Diamond_collector","url":"e:\\Cp-NoobToExpert\\Diamond_collector.cpp","tests":[{"id":1696241783796,"input":"5 3\n1\n6\n4\n3\n1","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Cp-NoobToExpert\\Diamond_collector.cpp","group":"local","local":true}
